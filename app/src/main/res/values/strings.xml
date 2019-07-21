@@ -1,0 +1,23 @@
+<resources>
+<string name="app_name">Practica2</string>
+<string name="titulo">Solicitud de prestamo</string>
+<string name="registro">Registro de cliente</string>
+<string name="nombre">Nombre</string>
+<string name="apellido">Apellido</string>
+<string name="sexo">Sexo</string>
+<string name="telefono">Telefono</string>
+<string name="cedula">Cedula</string>
+<string name="ocupacion">Ocupacion</string>
+<string name="Direccion">Direccion</string>
+<string name="continuar">Continuar</string>
+<string name="RegistroCredito">Registro del Credito</string>
+<string name="Monto">Monto Credito</string>
+<string name="interes">Interes(%)</string>
+<string name="plazo">Plazo</string>
+<string name="fecha">Fecha</string>
+<string name="fecha1">Fecha</string>
+<string name="fechinInicio">Fecha Finalizacion</string>
+<string name="montopagar">Monto a pagar</string>
+<string name="montocuota">Monto por cuota</string>
+<string name="fin">Finalizar</string>
+</resources>
